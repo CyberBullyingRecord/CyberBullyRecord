@@ -59,5 +59,5 @@ _主流的意見佔據大部分發聲渠道的時候，就很難會再出現異�
 
 **是網路法官還是劊子手？談談網路公審中支離破碎的道德判斷：**
 
-[https://philomedium.com/blog/81597](url)
+[https://philomedium.com/blog/81597](https://philomedium.com/blog/81597)
 
