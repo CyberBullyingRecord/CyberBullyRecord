@@ -1,6 +1,8 @@
+---
 layout: page
 title: "網絡霸凌事件記錄簿"
 permalink: /a/
+---
 
 # 網絡霸凌事件記錄簿
 
