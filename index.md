@@ -61,3 +61,7 @@ _主流的意見佔據大部分發聲渠道的時候，就很難會再出現異�
 
 [https://philomedium.com/blog/81597](https://philomedium.com/blog/81597)
 
+**「網路公審」究竟是正義還是霸凌？采子何孟遠事件：如果她的告別，是真的告別呢⋯⋯**
+
+https://womany.net/read/article/26950
+
