@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 網絡霸凌事件記錄簿
 
-You can use the [editor on GitHub](https://github.com/CyberBullyingRecord/CyberBullyRecord/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+網絡公審往往因為微不足道的瑣事而起，人們言行稍有差池，便成為公審對象。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+網民打着伸張正義的旗號，憑藉片面證據和懶人包判斷是非，以文字辱罵、騷擾和肉搜受害人，是名符其實的網路霸凌。
 
-### Markdown
+而在公審事件中任何發聲的人，都會被視為陣營被一起審判，這讓受害者孤立無援。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+網絡霸凌的影響十分深遠，因此站長建立此站，提供微薄力量支援受害者。本站不強迫讀者相信事件描述，如果不認同的請自行關閉此站。任何惡意騷擾的人，站長將會使用程式為您的電郵訂閱眾多電子報：
 
-```markdown
-Syntax highlighted code block
+另外如果發現任何網絡欺凌 / 霸凌事件，歡迎投稿到以下信箱。
 
-# Header 1
-## Header 2
-### Header 3
+cyberbullyingrecord@gmail.com
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 相關文章：
 
-[Link](url) and ![Image](src)
-```
+**是網路法官還是劊子手？談談網路公審中支離破碎的道德判斷：**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[https://philomedium.com/blog/81597](url)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyberBullyingRecord/CyberBullyRecord/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
